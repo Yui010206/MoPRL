@@ -1,0 +1,2 @@
+python train_test.py --exp_name ShanghaiTech_AlphaPose_train --dataset ShanghaiTech_AlphaPose
+python train_test.py --exp_name ShanghaiTech_AlphaPose_test --dataset ShanghaiTech_AlphaPose --inference True --model_path your_path_to_model
