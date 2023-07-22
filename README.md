@@ -7,9 +7,9 @@
 
 * [Paper](https://ieeexplore.ieee.org/abstract/document/10185076) ([IEEE Transactions on Circuits and Systems for Video Technology 2023](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76))
 
-<img src="./assets/fig1.png" alt="teaser image" width="800"/>
-
 <img src="./assets/fig2.png" alt="teaser image" width="800"/>
+
+<img src="./assets/fig1.png" alt="teaser image" width="800"/>
 
 ## Data Preparetion
 
